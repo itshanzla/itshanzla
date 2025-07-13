@@ -34,3 +34,7 @@ I'm a React Native Engineer who builds scalable, real-time mobile apps with mode
 - [LinkedIn](https://linkedin.com/in/muhammad-hanzla)  
 - [GitHub](https://github.com/itshanzla)  
 - 📧 hanzlamohammad8@gmail.com
+
+![GitHub followers](https://img.shields.io/github/followers/itshanzla?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/itshanzla?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
