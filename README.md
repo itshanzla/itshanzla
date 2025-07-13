@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi, I'm Hanzla 👋  
+I'm a React Native Engineer who builds scalable, real-time mobile apps with modern tech stacks and strong focus on performance, UX, and clean architecture.
 
-<!--
-**itshanzla/itshanzla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Tech Stack**: React Native (CLI & Expo), TypeScript, Redux Toolkit, Firebase, Supabase, Node.js, Express.js, WebSockets  
+🎯 **Currently at**: Mercury Sols  
+📱 **Production Users**: 1,000+ across apps in healthcare, education, and media
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Featured Projects
+
+- 🩺 **Humacare App** *(Private)*  
+  Encrypted medical records, PDF export, and secure patient data management for hospitals.
+
+- 🎵 **Vibeshare** *(Personal)*  
+  Spotify-integrated real-time music sharing app with live syncing and playlist collaboration.
+
+- 🎓 **Alaziz App** *(Client Work)*  
+  LMS platform with real-time quiz evaluations, analytics, and student tracking for 500+ students.
+
+- 🛒 **Bazar** *(E-commerce App)*  
+  Cross-platform bookstore with real-time cart sync, Firebase backend, and responsive UI.
+
+- 🤖 **Doctor-Patient App** *(International Client)*  
+  AI chatbot integration, video calls using Agora SDK, and token-based medical consultation system.
+
+- 🌍 **Xplorar – Travel App** *(Personal)*  
+  Travel planner with real-time trip recommendations based on user interests, location, and budget.
+
+---
+
+### 📫 Contact Me
+
+- [LinkedIn](https://linkedin.com/in/muhammad-hanzla)  
+- [GitHub](https://github.com/itshanzla)  
+- 📧 hanzlamohammad8@gmail.com
