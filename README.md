@@ -25,7 +25,7 @@
 
 - 🔭 Currently working at **Mercury Sols** as React Native Developer
 - 💼 Building scalable **Healthcare**, **Education** & **E-commerce** platforms
-- ⚡ Mastered **Flutter in 2 days** and **Node.js in 1 week** - Rapid learner
+- ⚡ Learned **Flutter in 2 days** and **Node.js in 1 week** - Rapid learner
 - 🌍 Worked on international projects in **DR Congo** with 2,000+ users
 - 🎯 Expert in **React Native CLI, TypeScript, Redux Toolkit, Firebase, Node.js**
 - 🔐 Implemented **AES-256 encryption** for medical data security
